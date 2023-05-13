@@ -3,7 +3,7 @@ Hello! I'm Enzo, and this contains the links to the project repositories on my g
 _Please don't hesitate to reach out to me here on gitub or my [LinkedIn](https://www.linkedin.com/in/enzo-pimentel-002422276/), and thank you so much for taking the time to see these projects!_
 
 ---
-## [Project 1: Bike Frame and Price Comparison in Grand Tours](https://github.com/enzopimentel/Bike-Frame-and-Price-Comparison-in-Grand-Tours)
+## [Project 1: Performance Analysis of Bike Frames in Professional Cycling Races](https://github.com/enzopimentel/Bike-Frames-in-Grand-Tour-Wins)
 
 This project looks at the three Grand Tours in professional cycling from 2020 – 2023 to see which bicycle frame is the best, and what it means for pro riders, potential sponsors/investors, and for regular consumers. 
 
