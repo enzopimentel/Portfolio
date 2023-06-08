@@ -20,3 +20,11 @@ This project analyzes data about idols, their groups, company, nationality, amon
 * The data used were from Kaggle and scraped from dbkpop.com
 * The Python libraries used were BeautifulSoup and Pandas.
 * The data was analyzed and visualized in Power BI.
+
+## [Project 3: Correlation Analysis of University Rankings, GDP, and Population](https://github.com/enzopimentel/Uni-Rankin_GDP_World-Population_Correlation)
+
+This project analyzes the correlation between 2020 university rankings from different ranking bodies, the GDP of the countries of the universities, as well as the 2020 World Population of the countries as well. This analysis uses Spearman Correlation to answer the question _"Does GDP and country population have an effect on the university's ranking?"_.
+
+* The datasets were from Kaggle
+* Visual Studio Code (with Jupyter Notebook extension) was used to process and visualize the data
+* The Python packages Pandas, Numpy, Matplotlib, and Seaborn were used
