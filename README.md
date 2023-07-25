@@ -20,7 +20,7 @@ This project analyzes data about idols, their groups, company, nationality, amon
 * The data used were from Kaggle and scraped from dbkpop.com
 * The Python libraries used were BeautifulSoup and Pandas.
 * The data was analyzed and visualized in Power BI.
-
+---
 ## [Project 3: Correlation Analysis of University Rankings, GDP, and Population](https://github.com/enzopimentel/Uni-Rankin_GDP_World-Population_Correlation)
 
 This project analyzes the correlation between 2020 university rankings from different ranking bodies, the GDP of the countries of the universities, as well as the 2020 World Population of the countries as well. This analysis uses Spearman Correlation to answer the question _"Does GDP and country population have an effect on the university's ranking?"_.
@@ -28,3 +28,11 @@ This project analyzes the correlation between 2020 university rankings from diff
 * The datasets were from Kaggle
 * Visual Studio Code (with Jupyter Notebook extension) was used to process and visualize the data
 * The Python packages Pandas, Numpy, Matplotlib, and Seaborn were used
+---
+## [Project 4: Bank Marketing Analysis with Machine Learning Models](https://github.com/enzopimentel/bank-marketing-ML)
+
+This project analyzies data from the UCI repository on a dataset about a bank's marketing campaign for a term deposit subscrition. This analysis will look into the demographic of the customers, such as age, occupation, marital status, educational achievement, among others; the aspects of the marketing efforts, such as call duration, number of calls per client, and the success rate of the marketing. Machine models were used to try to predict subscription success rate based on the features of the dataset.
+
+* The datasets were from the UCI ML repository [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+* Different ML models (Logisitc Regression, Gradient Boost, SVM, XGBoost, KNN, Naive Bayes, Neural Network from sklearn, Nueral Network from Tensorflow) were employed to assess which was the best fitting model
+* The Python libraries used were Numpy and Pandas, Sklearn, Tensorflow, matplotlib, seaborn, imblearn.
