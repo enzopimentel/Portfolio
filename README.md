@@ -36,3 +36,14 @@ This project analyzies data from the UCI repository on a dataset about a bank's 
 * The datasets were from the UCI ML repository [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 * Different ML models (Logisitc Regression, Gradient Boost, SVM, XGBoost, KNN, Naive Bayes, Neural Network from sklearn, Nueral Network from Tensorflow) were employed to assess which was the best fitting model
 * The Python libraries used were Numpy and Pandas, Sklearn, Tensorflow, matplotlib, seaborn, imblearn.
+
+---
+
+## [Project 5: PLDT Stock Price Prediction via LSTM and Machine Learing](https://github.com/enzopimentel/LSTMS-Stock-Prediction)
+
+This projects attepts to predict PLDT Inc. (PHI) next day stock price using an LSTM nueral network, and coparing the performance to other machine learning algorithms. the date range of the data used in training and predicting, starts from 2000 until 2023 October.
+
+* The dataset used for the whole project was pulled using the **yfinance** api
+* ML algorithms use are the following: _Linear Regression, Lasso Regression, Elastic Net, Gradient Boost, SVM, AdaBoost, Random Forest, K Nearest Neighbors, Neural Network from sklearn, LSTM Nueral Network from Tensorflow_
+* The Python libraries used were Numpy and Pandas, Sklearn, Tensorflow, matplotlib, seaborn, imblearn, statsmodels api.
+
